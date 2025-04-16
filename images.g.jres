@@ -1,0 +1,39 @@
+{
+    "image3": {
+        "data": "hwQNABAAAAAAAAAAABkRAADwz///GREA8P/P/z///wDw//xvNpk58/D///8fmTPz8P//ERGqOQPwzx8REZkzA/DMH/8fqjnz8P//bzaZM/Pw///8P/8/AwDwz/z/GREAAMDM////EQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "yuha"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "stella"
+    },
+    "1#`=8TlM,M(!S!0OxjA3": {
+        "data": "hwQOABAAAAAAEAAAAAAAAADw//8PAAAA8P/z//8REQDw//P/8xERAfA//20TYZn/8P/f/xGZZv/w/x0REZFpD/D/HRERkWkP8P/f/xGZZv/w+/9tE2GZ/wD/8//zEREAAP/z//8REQAA8P//DwAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jiwoo"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADgAAAAAAAA7u4AAQAA4O7u7hERAADj7j7uEREA4O7dP0FUlAng7t4fEUSU+eDu3hERRZT54O7eERFFlAng7v4fEVWU+eDm3jZGRJT5AG7uPu4REQAA4O7u7hEBAAAAAO7uAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ana"
+    },
+    "image1": {
+        "data": "hwQOABAAAAAAAAAAAAAAAPD/AAAAEREA8P/4//8REQDwj///8/85CQD6/282mZnzAP///R+ZOfMA///dEZk5AwD//90RmTkDAP///R+ZOfMA+P9tNpk58/CP///zExEA8P/6//8REQDw/wAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Carmen"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA=",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

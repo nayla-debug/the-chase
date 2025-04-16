@@ -1,0 +1,51 @@
+{
+    "nextPaletteID": 9,
+    "palettes": {
+        "custom3": {
+            "id": "custom3",
+            "name": "CustomSKINTONE",
+            "colors": [
+                "#000000",
+                "#F7C19B",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom8": {
+            "id": "custom8",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#fff7e4",
+                "#f98284",
+                "#feaae4",
+                "#ffc384",
+                "#fff7a0",
+                "#FFFFFF",
+                "#5C4033",
+                "#b0a9e4",
+                "#accce4",
+                "#b3e3da",
+                "#d9c8bf",
+                "#6c5671",
+                "#ffe6c6",
+                "#dea38b",
+                "#28282e"
+            ],
+            "custom": true
+        }
+    }
+}
